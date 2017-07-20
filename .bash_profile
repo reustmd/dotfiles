@@ -56,6 +56,7 @@ alias serverxml='subl ~/my/toolbox/tomcat-6.0.18/conf/server.xml'
 alias backmerge='core && git up && git co stage && git merge master && git push origin stage && git co develop && git merge stage && git push origin develop'
 alias hosts='subl /private/etc/hosts'
 alias restart-mysql='boxen --restart-service mysql'
+alias battery='pmset -g batt'
 
 port() {
 	lsof -i :$1
