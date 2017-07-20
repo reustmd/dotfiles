@@ -27,3 +27,6 @@ bin
 brew.sh
 .bash_sessions
 .bash_history
+.dropbox
+Dropbox*
+Google Drive*
