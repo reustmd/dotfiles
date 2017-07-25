@@ -30,3 +30,5 @@ brew.sh
 .dropbox
 Dropbox*
 Google Drive*
+.vault-token
+.stCommitMsg
