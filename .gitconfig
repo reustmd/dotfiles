@@ -80,6 +80,7 @@
 	}; f"
 
 	co = checkout
+	up = pull --rebase --autostash
 
 [apply]
 
