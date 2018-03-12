@@ -32,3 +32,23 @@ Dropbox*
 Google Drive*
 .vault-token
 .stCommitMsg
+.IdentityService/
+.ServiceHub/
+.cache/
+.config/
+.cups/
+.gradle/
+.hgignore_global
+.jenv/
+.local/
+.mono/
+.mume/
+.netrc
+.nuget/
+.profile
+.pry_history
+.pyenv/
+.subversion/
+.templateengine/
+.viminfo
+.vscode/
